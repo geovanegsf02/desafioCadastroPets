@@ -61,7 +61,7 @@ public class ValidaPet {
             return idadePet;
         }
 
-        double idade = 0;
+        double idade;
 
         try {
             idade = Double.parseDouble(idadePet);
@@ -85,7 +85,7 @@ public class ValidaPet {
         }
 
         pesoPet = pesoPet.replace(",", ".");
-        double peso = 0;
+        double peso;
 
         try {
             peso = Double.parseDouble(pesoPet);

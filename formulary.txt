@@ -1,0 +1,7 @@
+1 - Insira o nome completo do pet:
+2 - Insira o tipo de pet (Cachorro/Gato):
+3 - Insira o gênero do pet:
+4 - Insira o endereço em que ele foi encontrado
+5 - Insira a idade aproximada do pet:
+6 - Insira o peso aproximado do pet:
+7 - Insira a raça do pet:
